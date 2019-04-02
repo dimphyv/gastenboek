@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+.container{
+display: grid;
+
+background-color: lightblue;
+margin-top: 10px;
+margin-left: 40px;
+margin-right: 40px;
+padding: 20px;
+
+}
+
+.header{
+  display: grid;
+  text-align: center;
+  font-family: comic sans-serif;
+  color: lightblue;
+  background: #0f0f0f;
+
+}
+
+.form{
+  display: grid;
+
+
+}
+.bericht{
+  padding:40px;
+  color: white;
+  background: #050505;
+
+
+
+}
+
+.subbut{
+  padding:10px;
+  background: black;
+  color: white;
+font-size: 30px;
+}
+
+.buttondiv{
+  margin:0 auto;
+  margin-top: 15px;
+
+}
